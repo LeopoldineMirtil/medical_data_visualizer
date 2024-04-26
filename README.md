@@ -1,6 +1,6 @@
 # Medical Data Visualizer
 
-A project (that passes the tests) from the freeCodeCamp "Data Analysis with Python" course. The goal is to manipulate and visualize data by using matplotlib, seaborn and pandas to create two functions that create a categorical plot and heatmap.
+A project from the freeCodeCamp "Data Analysis with Python" course. The goal is to manipulate and visualize data by using matplotlib, seaborn and pandas to create two functions that create a categorical plot and heatmap.
 
 
 ### Data Description
