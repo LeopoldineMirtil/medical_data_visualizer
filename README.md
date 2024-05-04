@@ -1,10 +1,10 @@
 # Medical Data Visualizer
 
-A project from the freeCodeCamp "Data Analysis with Python" course. The goal is to manipulate and visualize data by using matplotlib, seaborn and pandas to create two functions that create a categorical plot and heatmap.
+A project from the freeCodeCamp "Data Analysis with Python" course, instructions [here](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer). The goal of the project is to manipulate and visualize data by using matplotlib, seaborn and pandas to create two functions that create a categorical plot and a heatmap.
 
 
 ### Data Description
-The file 'medical_examination.csv' is the data source for this project and was made available by freeCodeCamp.Below is a description of the data values: 
+The file 'medical_examination.csv' is the data source for this project and was made available by freeCodeCamp.  The dataset is compiled from medical examinations, below is a description of the data values: 
 
 
 |          Feature 	       |         Variable Type    |     Variable 	    |     Value Type    |
